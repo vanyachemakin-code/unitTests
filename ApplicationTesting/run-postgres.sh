@@ -1,0 +1,1 @@
+docker run --name fibonacci-postgres -e POSTGRES_PASSWORD=6324 -p 5433:5432 -d postgres
